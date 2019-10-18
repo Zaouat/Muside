@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Home
 
-![alt text](https://i.imgur.com/Eun9q5u.jpg)
+![alt text](https://i.imgur.com/tSFDHBt.png)
 
 
 

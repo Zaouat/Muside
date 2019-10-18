@@ -4,6 +4,7 @@ MUSIDE (MusicPlayer).
 
 ## Home & swipe to refresh
 ![alt text](https://i.imgur.com/tSFDHBt.png)
+
 ![alt text](https://i.imgur.com/KJOOcJz.png)
 
 ## Menu

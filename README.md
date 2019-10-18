@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started
+## Home
 
 ![alt text](https://i.imgur.com/Eun9q5u.jpg)
 
